@@ -1,6 +1,7 @@
 # Nova Minimal Theme
-A minimal Nova theme
 
+[![Latest Version on Github](https://img.shields.io/github/release/dillingham/nova-minimal-theme.svg?style=flat-square)](https://packagist.org/packages/dillingham/nova-minimal-theme)
+[![Total Downloads](https://img.shields.io/packagist/dt/dillingham/nova-minimal-theme.svg?style=flat-square)](https://packagist.org/packages/dillingham/nova-minimal-theme)
 ```bash
 composer require dillingham\nova-minimal-theme
 ```
