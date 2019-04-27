@@ -11,4 +11,4 @@ composer require dillingham\nova-minimal-theme
 
 ![minimal-4](https://user-images.githubusercontent.com/29180903/56855460-77ffe700-6915-11e9-87ed-b64625787a67.png)
 
-![minimal-3](https://user-images.githubusercontent.com/29180903/56855428-d7a9c280-6914-11e9-873c-f2dcfe56e66c.png)
+![minimal-3](https://user-images.githubusercontent.com/29180903/56855493-e2b12280-6915-11e9-86d1-38e1c0f709d0.png)
