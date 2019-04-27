@@ -1,0 +1,118 @@
+:root {
+    --transparent: transparent;
+    --black: #22292f;
+    --white: white;
+    --white-50: rgba(255, 255, 255, 0.5);
+    --danger: #f0576a;
+    --success: #8dcea2;
+    --warning: #ffd239;
+    --info: #afc0d3;
+    --primary: #000;
+    --primary-dark: #000000;
+    --primary-70: rgba(70, 70, 70, 0.7);
+    --primary-50: rgba(70, 70, 70, 0.5);
+    --primary-30: rgba(70, 70, 70, 0.3);
+    --primary-10: rgba(70, 70, 70, 0.1);
+    --sidebar-icon: #000000;
+    --20: #fafafa;
+    --30: #f5f5f5;
+    --40: #f9f9f9;
+    --50: #e3e7eb;
+    --60: #bacad6;
+    --70: #b3b9bf;
+    --80: #7c858e;
+    --90: #252d37;
+    --90-half: rgba(40, 54, 61, 0.5);
+}
+
+.w-sidebar {
+    background: white;
+}
+
+.bg-grad-sidebar {
+  background: var(--40) !important;
+}
+
+.bg-grad-sidebar .text-white {
+	color: var(--90);
+}
+
+.progress {
+    height: 5px !important;
+    background: var(--primary) !important;
+}
+
+.toasted-container .toasted {
+  padding: 20px 40px;
+  border-radius: 0;
+}
+
+.checkbox:focus {
+  box-shadow: none;
+}
+
+.form-control {
+  border-radius: 0 !important;
+}
+
+.form-input:active, .form-input:focus {
+  box-shadow: none;
+}
+
+.h-header .form-control {
+  border: none;
+  box-shadow: none;
+}
+
+#nova .content > .shadow {
+  box-shadow: none;
+}
+
+.table th {
+  background: none;
+}
+
+[dusk="edit-resource-button"].btn-icon {
+  background: var(--white);
+}
+
+[dusk="edit-resource-button"].btn-icon svg {
+  color: var(--80);
+}
+
+.btn-default {
+    height: 3rem;
+    border-radius: 0;
+    line-height: 2.75rem;
+    border: 2px solid var(--30);
+}
+
+.btn-outline, .btn-primary {
+  background: var(--white) !important;
+  color: var(--80);
+}
+
+.btn-outline:hover, .btn-primary:hover {
+  border: 2px solid var(--70);
+}
+
+.card-panel {
+  height: auto;
+  min-height: 150px;
+}
+
+.pt-header {
+  padding-top: 7rem;
+}
+
+.h-header {
+    height: 3.75rem;
+}
+
+.py-view {
+    padding-top: 3rem;
+}
+
+td span > span.font-bold {
+  font-weight: normal;
+}
