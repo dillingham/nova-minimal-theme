@@ -3,7 +3,7 @@
 [![Latest Version on Github](https://img.shields.io/github/release/dillingham/nova-minimal-theme.svg?style=flat-square)](https://packagist.org/packages/dillingham/nova-minimal-theme)
 [![Total Downloads](https://img.shields.io/packagist/dt/dillingham/nova-minimal-theme.svg?style=flat-square)](https://packagist.org/packages/dillingham/nova-minimal-theme)
 ```bash
-composer require dillingham\nova-minimal-theme
+composer require dillingham/nova-minimal-theme
 ```
 ![minimal-2](https://user-images.githubusercontent.com/29180903/56855457-72a29c80-6915-11e9-8d25-f01d8e892c95.png)
 
